@@ -1,0 +1,3 @@
+include ':memojikeyboard'
+include ':app'
+rootProject.name = "MEmojiKeyboard"
